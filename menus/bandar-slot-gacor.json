@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle bandar-slot-gacor",
+        "command": "bandar-slot-gacor:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "bandar-slot-gacor",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "bandar-slot-gacor:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

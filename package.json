@@ -1,0 +1,18 @@
+{
+  "name": "bandar-slot-gacor",
+  "main": "./lib/bandar-slot-gacor",
+  "version": "1.0.0",
+  "description": "Link Download Cara Main Gacor Bandar Slot Gacor Rekomendasi Kami",
+  "keywords": ["toptrend gaming","slot online","slot pg soft","situs judi slot online","slot online cq9","toptrend gaming","slot online terbaik","toptrend gaming","toto slot","agentoto slot"],
+
+  "activationCommands": {
+    "atom-workspace": "bandar-slot-gacor:toggle"
+  },
+  "repository": "https://github.com/slotjago/bandar-slot-gacor",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
