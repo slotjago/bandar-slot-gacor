@@ -3,9 +3,9 @@
 <details open><summary><b>Show / Hide Ads</b></summary>
 
 # [Info Bet Terkecil Cara Main Gacor Bandar Slot Gacor Uang Dana](https://atom.io/packages/bandar-slot-gacor)
-## :top: klik untuk [Dapatkan Promo Anda Hari Ini](https://agentotoplay.net/promo/) :zap: <<< 
-## :8ball: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/promo/) :white_check_mark: <<< 
-## :fire: klik untuk [Mulai Deposit Sekarang](https://agentotoplay.net/register/) :dart: <<< 
+## :top: klik untuk [Dapatkan Promo Anda Hari Ini](https://golinkurl.github.io/promo/) :zap: <<< 
+## :8ball: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/promo/) :white_check_mark: <<< 
+## :fire: klik untuk [Mulai Deposit Sekarang](https://golinkurl.github.io/register/) :dart: <<< 
 
 ## Informasi Situs /Server Kami : 
 
